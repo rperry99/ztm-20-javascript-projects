@@ -37,7 +37,7 @@ I have provided a link to the repo on GitHub, which will have a basic descriptio
 
 **15. Math Sprint Game**: [GitHub](https://github.com/rperry99/math-sprint) | [Demo](https://rperry99.github.io/math-sprint/)
 
-<!-- **16. Drag and Drop Kanban Board**: [GitHub]() | [Demo]() -->
+**16. Drag and Drop Kanban Board**: [GitHub](https://github.com/rperry99/kanban-board) | [Demo](https://rperry99.github.io/kanban-board/)
 
 <!-- **17. JavaScript Calculator**: [GitHub]() | [Demo]() -->
 
