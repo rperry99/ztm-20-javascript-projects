@@ -39,7 +39,7 @@ I have provided a link to the repo on GitHub, which will have a basic descriptio
 
 **16. Drag and Drop Kanban Board**: [GitHub](https://github.com/rperry99/kanban-board) | [Demo](https://rperry99.github.io/kanban-board/)
 
-<!-- **17. JavaScript Calculator**: [GitHub]() | [Demo]() -->
+**17. JavaScript Calculator**: [GitHub](https://github.com/rperry99/calculator) | [Demo](https://rperry99.github.io/calculator/)
 
 <!-- **18. Splash Page**: [GitHub]() | [Demo]() -->
 
