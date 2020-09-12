@@ -41,7 +41,7 @@ I have provided a link to the repo on GitHub, which will have a basic descriptio
 
 **17. JavaScript Calculator**: [GitHub](https://github.com/rperry99/calculator) | [Demo](https://rperry99.github.io/calculator/)
 
-<!-- **18. Splash Page**: [GitHub]() | [Demo]() -->
+**18. Splash Page**: [GitHub](https://github.com/rperry99/splash-page) | [Demo](https://rperry99.github.io/splash-page/)
 
 <!-- **19. Paint Clone**: [GitHub]() | [Demo]() -->
 
