@@ -43,6 +43,6 @@ I have provided a link to the repo on GitHub, which will have a basic descriptio
 
 **18. Splash Page**: [GitHub](https://github.com/rperry99/splash-page) | [Demo](https://rperry99.github.io/splash-page/)
 
-<!-- **19. Paint Clone**: [GitHub]() | [Demo]() -->
+**19. Paint Clone**: [GitHub](https://github.com/rperry99/paint-clone) | [Demo](https://rperry99.github.io/paint-clone/)
 
 <!-- **20. JavaScript PONG**: [GitHub]() | [Demo]() -->
