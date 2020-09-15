@@ -45,4 +45,4 @@ I have provided a link to the repo on GitHub, which will have a basic descriptio
 
 **19. Paint Clone**: [GitHub](https://github.com/rperry99/paint-clone) | [Demo](https://rperry99.github.io/paint-clone/)
 
-<!-- **20. JavaScript PONG**: [GitHub]() | [Demo]() -->
+**20. JavaScript PONG**: [GitHub](https://github.com/rperry99/pong-clone) | [Demo](https://rperry99.github.io/pong-clone/)
